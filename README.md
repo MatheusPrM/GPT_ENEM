@@ -1,4 +1,4 @@
-# GPT_ENEM
+# GPT ENEM
 
 ## Project for POC 1 Evaluating LLMs on ENEM
 
